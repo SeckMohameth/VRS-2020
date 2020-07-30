@@ -1,5 +1,6 @@
 # VRS-2020
 Location based video sharing app
+Code is in a private repo
 
 For more info on the beta and the app itself, check out my [medium post](https://medium.com/@mohamethseck/vrs-beta-2020-aedbea9b446c) on the project.
 
