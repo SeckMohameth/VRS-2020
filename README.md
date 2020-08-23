@@ -25,6 +25,7 @@ Vers is a location based video sharing app where users can have the best video i
 - Node.js
 - Next.js for server side rendering
 - Deoployed on AWS (EC2 and S3)
+- Swift & SwiftUI
 
 ### Please refer to the medium blog post for more information.
 Here is a link to the first concept idea of Vers that I outsourced to developers before I knew how to code. [First Vers App](https://github.com/SeckMohameth/Vers-2016-2019)
